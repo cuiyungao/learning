@@ -1,0 +1,2 @@
+# thinker
+Think deeply.
